@@ -1,0 +1,8 @@
+token=
+owner=  
+prefix= 
+game= Type help
+stayinchannel=true
+songinstatus=true
+token=NTc4MTA0OTc5NDU0MTY1MDIy.XNuwSw.VuHjMOGSkwbjeFQadpvElTGLO0gNTc4MTA0OTc5NDU0MTY1MDIy.XNuwSw.VuHjMOGSkwbjeFQadpvElTGLO0g
+owner=527385670759743509
